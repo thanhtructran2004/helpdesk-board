@@ -3,7 +3,7 @@ A simple Next.js web app that displays and manages helpdesk tickets with filteri
 
 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/yourusername/helpdesk-ticket-board.git
+git clone https://github.com/thanhtructran2004/helpdesk-board.git
 cd helpdesk-ticket-board
 2. Install Dependencies
 npm install
