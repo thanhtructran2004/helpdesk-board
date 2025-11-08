@@ -1,8 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Helpdesk Ticket Board
+
+A web application that simulates a helpdesk ticket management system where users can view, search, and manage support tickets.  
+Built with **Next.js (JavaScript + JSX)** using the **App Router** and **Tailwind CSS**.
 
 ## Getting Started
 
-First, run the development server:
+### Installing
+Clone the repository and install dependencies:
 
 ```bash
 npm run dev
